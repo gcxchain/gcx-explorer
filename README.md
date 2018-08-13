@@ -1,12 +1,12 @@
-# GXChain区块浏览器(GXChain Explorer)
+# GCXChain区块浏览器(GCXChain Explorer)
 
-GXChain区块浏览器是构建在公信链(GXChain)上的一个查询工具,提供区块(Block)查询,交易(Transaction)查询和账户(Account)查询功能
+GCXChain(GCXChain)上的一个查询工具,提供区块(Block)查询,交易(Transaction)查询和账户(Account)查询功能
 
-GXChain Explorer is a search tool build on GXChain, supporting block search, transaction search, and account search.
+GCXChain Explorer is a search tool build on GCXChain, supporting block search, transaction search, and account search.
 
-> 任何一方可以无偿使用此浏览器或进行二次开发, 但请注明项目来源:Powered by GXChain
+> 任何一方可以无偿使用此浏览器或进行二次开发, 但请注明项目来源:Powered by GCXChain
 
-> Please keep our copyright "Powered by GXChain" if you want use it for free
+> Please keep our copyright "Powered by GCXChain" if you want use it for free
 
 Thanks [shuang-guo](https://github.com/shuang-guo) for providing english translation
 
@@ -39,7 +39,7 @@ nvm use v6
 ## 克隆项目 Clone project
 
 ```
-git clone https://github.com/gxchain/gxbox.git
+git clone https://github.com/gcxchain/gcx-explorer.git
 ```
 
 ## 依赖安装 Install dependencies

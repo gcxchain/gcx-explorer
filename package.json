@@ -1,7 +1,7 @@
 {
-  "name": "gxb-explorer",
+  "name": "gcx-explorer",
   "version": "1.0.1",
-  "description": "gxchain explorer",
+  "description": "GCXChain explorer",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server/index.js --exec babel-node --watch server",
@@ -19,15 +19,15 @@
     "node": ">= 6.0.0"
   },
   "keywords": [
-    "gxchain",
+    "GCXChain",
     "explorer"
   ],
   "author": "davidlan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gxchain/gxb-explorer/issues"
+    "url": "https://github.com/gcxchain/gcx-explorer/issues"
   },
-  "homepage": "https://github.com/gxchain/gxb-explorer#readme",
+  "homepage": "https://github.com/gcxchain/gcx-explorer/blob/master/README.md",
   "dependencies": {
     "async": "^2.5.0",
     "bluebird": "^3.5.0",
