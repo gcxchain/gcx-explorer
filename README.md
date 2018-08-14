@@ -68,7 +68,7 @@ NODE_ENV=production node server-dist/index.js
 或者使用pm2启动(else use pm2 to start)
 
 ```
-NODE_ENV=production pm2 start server-dist/index.js --name gxb-explorer
+NODE_ENV=production pm2 start server-dist/index.js --name gcx-explorer
 ```
 
 ## API说明 API description
